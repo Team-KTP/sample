@@ -11,7 +11,7 @@
 ## 보는 방법
 
 ```bash
-git clone -b ttadak https://github.com/Team-KTP/ttadak-sample.git
+git clone -b ttadak https://github.com/Team-KTP/sample.git
 ```
 
 ## 새 샘플 추가
